@@ -1,0 +1,8 @@
+# MediaPipe model file too large, download separately
+hand_landmarker.task
+
+# Python virtual environment
+gesture_env/
+__pycache__/
+*.pyc
+.env
