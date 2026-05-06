@@ -1,0 +1,7 @@
+# Gesture Cursor Control — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+opencv-python>=4.8.0
+mediapipe>=0.10.9
+numpy>=1.23.0
+evdev>=1.6.0
