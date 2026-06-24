@@ -69,6 +69,8 @@ gesture-cursor-control/
 ├── config.py               # All settings & thresholds (edit this to tune)
 ├── hand_detector.py        # MediaPipe HandLandmarker wrapper
 ├── gesture_classifier.py   # Rule-based gesture detection
+├── assets
+    └── assetsimage.png     # Working Images 
 ├── smoother.py             # Weighted moving average + velocity cap
 ├── cursor_controller.py    # evdev virtual mouse (Wayland compatible)
 ├── main.py                 # Entry point — wires all modules together
