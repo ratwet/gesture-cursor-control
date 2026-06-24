@@ -6,6 +6,10 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.35-orange?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.13-green?style=flat-square&logo=opencv)
 ![Platform](https://img.shields.io/badge/Platform-Ubuntu%2024.04-purple?style=flat-square&logo=ubuntu)
+</p>
+<br/>
+<img src="assets/asssetsimage.png" width="520" alt="Images" />
+</div>
 
 ---
 
