@@ -1,15 +1,20 @@
 # Gesture Cursor Control
 
-> Control your mouse cursor with hand gestures using a webcam — real-time finger tracking with MediaPipe, OpenCV & Python. Wayland-native on Ubuntu. No mouse needed.
+> Control your mouse cursor with hand gestures using a webcam real-time finger tracking with MediaPipe, OpenCV & Python. Wayland-native on Ubuntu. No mouse needed.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.35-orange?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.13-green?style=flat-square&logo=opencv)
-![Platform](https://img.shields.io/badge/Platform-Ubuntu%2024.04-purple?style=flat-square&logo=ubuntu)
-</p>
-<br/>
-<img src="assets/asssetsimage.png" width="520" alt="Images" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/MediaPipe-0.10.35-orange?style=flat-square" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/OpenCV-4.13-green?style=flat-square&logo=opencv" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Platform-Ubuntu%2024.04-purple?style=flat-square&logo=ubuntu" alt="Platform" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="assets/assetsimage.png" width="520" alt="Images" />
+</div>
+
 
 ---
 
